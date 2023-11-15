@@ -1,0 +1,43 @@
+_repo: The-white-Indian-boy-b-The-story-of-Uncle-Nick-among-the-Shoshones_72101
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilson, F. N. (Frederick N.)
+    alias: Wilson, Frederick N.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '33977'
+    url: http://www.gutenberg.org/2009/agents/33977
+creator:
+  author:
+    agent_name: Wilson, E. N.
+    gutenberg_agent_id: '56539'
+    url: http://www.gutenberg.org/2009/agents/56539
+  editor:
+    agent_name: Driggs, Howard R. (Howard Roscoe)
+    alias: Driggs, Howard Roscoe
+    birthdate: 1873
+    deathdate: 1963
+    gutenberg_agent_id: '33976'
+    url: http://www.gutenberg.org/2009/agents/33976
+    wikipedia: https://en.wikipedia.org/wiki/Howard_R._Driggs
+description: ''
+gutenberg_issued: '2023-11-12'
+identifiers:
+  gutenberg: '72101'
+language: en
+pgterms:marc904: https://archive.org/details/whiteindianboyst00wilsrich/page/n5/mode/2up
+pgterms:marc905: 20221220104605wilson
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Carla Foust, Terry Jeffress and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aYonkers-on-Hudson :$bWorld Book Company, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The white Indian boy : $b The story of Uncle Nick among the Shoshones'
+url: http://www.gutenberg.org/ebooks/72101
