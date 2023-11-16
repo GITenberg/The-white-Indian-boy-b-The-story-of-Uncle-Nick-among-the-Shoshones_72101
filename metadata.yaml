@@ -8,6 +8,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '33977'
     url: http://www.gutenberg.org/2009/agents/33977
+covers:
+- cover_type: archival
+  image_path: 72101-h/images/cover-t.jpg
 creator:
   author:
     agent_name: Wilson, E. N.
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33976
     wikipedia: https://en.wikipedia.org/wiki/Howard_R._Driggs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72101#The-white-Indian-boy-b-The-story-of-Uncle-Nick-among-the-Shoshones
 gutenberg_issued: '2023-11-12'
 identifiers:
   gutenberg: '72101'
